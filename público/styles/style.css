@@ -1,0 +1,47 @@
+body {
+    background: url(https://mymodernmet.com/wp/wp-content/uploads/2018/10/famous-artists-hipster-portraits-amit-shimoni-1.jpg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+      background-size: cover;
+        }
+
+
+
+header{
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    background-color: rgba(5, 172, 255, 0.438);}
+main{
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    background-color: rgba(255, 255, 255, 0.616);
+    padding: 20px;}
+footer{
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    background-color: rgba(26, 28, 29, 0.774);
+    padding: 15px;}
+
+h1 {
+    text-align: center;
+    color: rgb(3, 78, 83);
+    font-family: Clarista;
+    font-size: xx-large;
+    font-size:75px;
+    text-align: center;}
+    
+h3{ font-family: Clarista;
+    font-size: large;
+    color: rgb(240, 53, 53);
+    font-size:55px;
+    text-align: center;}
+        
+p{ font-family: cursive;
+        font-size: large;
+        color: rgb(0, 0, 0);
+        font-size:25px;
+       text-align: right; }
+img{
+right: initial;
+}
+@font-face {
+font-family:Clarista;
+src: url(/public/Clarista.otf);}
